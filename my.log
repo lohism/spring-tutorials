@@ -1,0 +1,16 @@
+2021-12-31 16:17:49.742  INFO 7399 --- [main] c.l.springcore.SpringCoreApplication     : Starting SpringCoreApplication using Java 12.0.2 on Abhilashs-MacBook-Pro.local with PID 7399 (/Users/abhilash/DEVLAB/SPRING-TUTORIALS/spring-tutorials/target/classes started by abhilash in /Users/abhilash/DEVLAB/SPRING-TUTORIALS/spring-tutorials)
+2021-12-31 16:17:49.743  INFO 7399 --- [main] c.l.springcore.SpringCoreApplication     : No active profile set, falling back to default profiles: default
+2021-12-31 16:17:50.080  INFO 7399 --- [main] c.l.springcore.SpringCoreApplication     : Started SpringCoreApplication in 5.679 seconds (JVM running for 5.985)
+2021-12-31 16:17:50.085 ERROR 7399 --- [main] com.lohis.springcore.logging.MyLogger    : This is error level message
+2021-12-31 16:17:50.085  WARN 7399 --- [main] com.lohis.springcore.logging.MyLogger    : This is warn level message
+2021-12-31 16:17:50.085  INFO 7399 --- [main] com.lohis.springcore.logging.MyLogger    : This is info level message
+2021-12-31 16:17:50.085 DEBUG 7399 --- [main] com.lohis.springcore.logging.MyLogger    : This is debug level message
+2021-12-31 16:17:50.085 TRACE 7399 --- [main] com.lohis.springcore.logging.MyLogger    : This is trace level message
+2021-12-31 16:20:35.204  INFO 7412 --- [main] c.l.springcore.SpringCoreApplication     : Starting SpringCoreApplication using Java 12.0.2 on Abhilashs-MacBook-Pro.local with PID 7412 (/Users/abhilash/DEVLAB/SPRING-TUTORIALS/spring-tutorials/target/classes started by abhilash in /Users/abhilash/DEVLAB/SPRING-TUTORIALS/spring-tutorials)
+2021-12-31 16:20:35.206  INFO 7412 --- [main] c.l.springcore.SpringCoreApplication     : No active profile set, falling back to default profiles: default
+2021-12-31 16:20:35.552  INFO 7412 --- [main] c.l.springcore.SpringCoreApplication     : Started SpringCoreApplication in 5.666 seconds (JVM running for 5.964)
+2021-12-31 16:20:35.558 ERROR 7412 --- [main] com.lohis.springcore.logging.MyLogger    : This is error level message
+2021-12-31 16:20:35.558  WARN 7412 --- [main] com.lohis.springcore.logging.MyLogger    : This is warn level message
+2021-12-31 16:20:35.558  INFO 7412 --- [main] com.lohis.springcore.logging.MyLogger    : This is info level message
+2021-12-31 16:20:35.558 DEBUG 7412 --- [main] com.lohis.springcore.logging.MyLogger    : This is debug level message
+2021-12-31 16:20:35.558 TRACE 7412 --- [main] com.lohis.springcore.logging.MyLogger    : This is trace level message
